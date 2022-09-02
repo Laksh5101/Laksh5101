@@ -14,7 +14,7 @@
 <a href="https://medium.com/@sahajwanilakshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sahajwanilakshay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/channel/ucawqtpsbclirwekmjhz-ksa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucawqtpsbclirwekmjhz-ksa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jackviper521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jackviper521" height="30" width="40" /></a>
-<a href="https://discord.gg/JackViper05#8376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JackViper05#8376" height="30" width="40" /></a>
+<a href="https://discord.gg/X6XhWsx4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JackViper05#8376" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
