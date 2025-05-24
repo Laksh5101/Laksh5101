@@ -50,20 +50,14 @@ Analyzed Nigeria's COVID-19 data using health, budget, and GDP datasets.
 ## 🌐 Connect with Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/lakshay-sahajwani/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+  <a href="https://www.youtube.com/@BlackDodgeGaming" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://dev.to/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://ko-fi.com/yourkofi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=kofi&label=&color=29ABE0&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
 
