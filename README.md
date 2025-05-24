@@ -7,6 +7,7 @@
 🌱 Currently diving deep into data analysis, ML, and AI tools  
 📌 Learning in public on LinkedIn and building real-world projects
 
+---
 
 ## 🔍 What I’m Working On
 
