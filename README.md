@@ -71,7 +71,7 @@ Analyzed Nigeria's COVID-19 data using health, budget, and GDP datasets.
 
 ## 🐍 Just for Fun
 
-<img src="https://raw.githubusercontent.com/Laksh5101/Laksh5101/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Laksh5101/Laksh5101/blob/output/snake.svg" alt="Snake animation" />
 
 ---
 
