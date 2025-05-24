@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Lakshay Sahajwani
 <img align="right" height="150" src="https://s3.ezgif.com/tmp/ezgif-3afb8237eb68d7.gif" alt="Anime Coder Boy" />
 
-
+---
 🧠 **Aspiring Data Scientist**  
 🎓 Master's in Computer Applications (MCA) from Maharishi Markandeshwar University  
 🌱 Currently diving deep into data analysis, ML, and AI tools  
 📌 Learning in public on LinkedIn and building real-world projects
 
----
+
 
 ## 🔍 What I’m Working On
 
