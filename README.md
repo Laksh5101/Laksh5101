@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Lakshay Sahajwani
-<img align="right" height="110" src="https://i.imgur.com/T7tLQMR.gif" alt="Anime Coder Boy" />
+<img align="right" height="130" src="https://i.imgur.com/T7tLQMR.gif" alt="Anime Coder Boy" />
 
 
 🧠 **Aspiring Data Scientist**  
